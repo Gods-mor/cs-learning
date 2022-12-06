@@ -11,3 +11,8 @@ my cs learning plan
 
 **deadline:2022/12/16**
 this is just the beginning
+### ==plan 1==:
+Oh my god!都2022年了，不会还有人不会使用markdown吧，come on guys,rush to learn it.[markdown](https://markdown.com.cn/)
+**starttime:2022/12/16**
+
+**deadline:2022/12/18**
