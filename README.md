@@ -8,7 +8,7 @@
 *****
 ### ==plan 0==:
 
->1. 学习**打字技巧**,如果你还在用一只手在键盘上敲来敲去或者熄灯时需要用灯光照到键盘上才能打字,那你要试着学会盲打了。[小白学习打字网站](https://www.typingclub.com/sportal/program-3.game)[边练习打字边学单词](https://qwerty.kaiyi.cool/) [极简风格](https://www.keybr.com/)//我们希望你能每天抽出20分钟来练习打字    
+>1. 学习**打字技巧**,如果你还在用一只手在键盘上敲来敲去或者熄灯时需要用灯光照到键盘上才能打字,那你要试着学会盲打了。[小白学习打字网站](https://www.typingclub.com/sportal/program-3.game)||[边练习打字边学单词](https://qwerty.kaiyi.cool/)|| [极简风格](https://www.keybr.com/)//我们希望你能每天抽出20分钟来练习打字    
 >- **starttime：2022/12/06**      
 >- **deadline:2022/12/16**
 >2. 了解**计算机的发展及基本原理**，推荐一套B站课程[ Crash Course: Computer Science](https://www.bilibili.com/video/BV1EW411u7th)
